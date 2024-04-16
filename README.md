@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # E-CommerceMasterDB
 
 ## 📒 Descrição
